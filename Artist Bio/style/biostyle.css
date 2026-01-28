@@ -1,0 +1,51 @@
+
+*{
+    outline: 1px solid #bd793e54;
+    
+}
+
+body{
+    background-color: #4A4B2F;
+}
+
+header{
+    text-align:center;
+    background-color: #D4DF9E;
+    padding: 10px 0px 10px 0px;
+    
+}
+
+nav {
+    text-align:center;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+     background-color: #D4DF9E;
+}
+
+main{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.projects img{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+    
+    border-radius: 5px;
+}
+
+img {
+    width:  25%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: center;
+
+    border-radius: 5px;
+    
+}
+
